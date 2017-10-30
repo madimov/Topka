@@ -6,4 +6,4 @@ Brackeys' ![tutorials](https://www.youtube.com/watch?v=N49cfP-MWJA) on youtube w
 Gameplay screenshot:
 ![](https://user-images.githubusercontent.com/18381631/32150707-ad85191a-bd16-11e7-804d-1b85987ed9e5.png)
 
-To install on a Mac, open "topka_app_ready.dmg" and run "topka x86.app".
+To play on a Mac, open "topka_app_ready.dmg" and run "topka x86.app".
